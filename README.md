@@ -1,5 +1,4 @@
-# svn_dataset_hyperplane_plotting
-Program that plots hyperplanes for datasets with different classes.
+# Program that plots hyperplanes for datasets with different classes.
 
 Plotted dataset with Matplotlib:
 
