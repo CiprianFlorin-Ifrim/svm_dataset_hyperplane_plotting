@@ -5,8 +5,7 @@ Plotted dataset with Matplotlib:
 ![download](https://user-images.githubusercontent.com/94687473/230124409-37d9cd6f-f3b4-41c3-a016-eb2671cb37b2.png)
 
 SVM defined hyperplanes of the 3 classes of the test dataset used:
-
-![download (1)](https://user-images.githubusercontent.com/94687473/230124486-d2edf521-8296-4d7f-b71e-10ed6303a668.png)
+![SVM OnevsAll (3)](https://user-images.githubusercontent.com/94687473/231679894-3bb7b04e-04cc-45ca-8d71-b4a804364250.png)
 
 
 
